@@ -3,6 +3,3 @@ on: pull_request_review
 jobs:
   labelWhenApproved:
     runs-on: ubuntu-latest
-jobs:
-  labelWhenApproved:
-    runs-on: ubuntu-latest
